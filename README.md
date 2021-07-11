@@ -8,3 +8,5 @@ Day 2:Learnt--How to slice a list,difference between list and tuple
 Day 3:Learnt-- Pandas dataframe,to find mean,median,mode of a particular row/column of a dataframe
 
 Day 4:Learnt-- Finding  frequency,unique elemnts across row/column of a dataframe
+
+Day 5:Learnt--Some of numpy cheats from the provided resources
