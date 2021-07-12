@@ -10,3 +10,5 @@ Day 3:Learnt-- Pandas dataframe,to find mean,median,mode of a particular row/col
 Day 4:Learnt-- Finding  frequency,unique elemnts across row/column of a dataframe
 
 Day 5:Learnt--Some of numpy cheats from the provided resources
+
+Day 6:Learnt--Some data cleaning Techniques
