@@ -12,3 +12,5 @@ Day 4:Learnt-- Finding  frequency,unique elemnts across row/column of a datafram
 Day 5:Learnt--Some of numpy cheats from the provided resources
 
 Day 6:Learnt--Some data cleaning Techniques
+
+Day 7:Learnt-- Combining, splitting array 
