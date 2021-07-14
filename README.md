@@ -14,3 +14,7 @@ Day 5:Learnt--Some of numpy cheats from the provided resources
 Day 6:Learnt--Some data cleaning Techniques
 
 Day 7:Learnt-- Combining, splitting array 
+
+Day 8:Learnt-- About Matplotlib library
+
+
