@@ -17,4 +17,7 @@ Day 7:Learnt-- Combining, splitting array
 
 Day 8:Learnt-- About Matplotlib library
 
+Day 9:Learnt--Numpy operations
+
+
 
