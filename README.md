@@ -19,5 +19,9 @@ Day 8:Learnt-- About Matplotlib library
 
 Day 9:Learnt--Numpy operations
 
+Day 10:Learnt-- Plot using matplotlib library
+
+
+
 
 
