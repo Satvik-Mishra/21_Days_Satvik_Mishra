@@ -23,6 +23,10 @@ Day 10:Learnt-- Plot using matplotlib library
 
 Day 11:Learnt--Numpy functions, list operations, list methods
 
+Day 12:Learnt-- Generating series of time
+
+
+
 
 
 
