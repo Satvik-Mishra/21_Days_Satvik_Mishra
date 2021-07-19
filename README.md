@@ -25,6 +25,10 @@ Day 11:Learnt--Numpy functions, list operations, list methods
 
 Day 12:Learnt-- Generating series of time
 
+Day 13:Learnt-- Converting string to dates
+
+
+
 
 
 
