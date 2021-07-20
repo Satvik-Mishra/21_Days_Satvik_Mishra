@@ -27,6 +27,9 @@ Day 12:Learnt-- Generating series of time
 
 Day 13:Learnt-- Converting string to dates
 
+Day 14:Learnt--Generating periods and frequency conversion
+
+
 
 
 
