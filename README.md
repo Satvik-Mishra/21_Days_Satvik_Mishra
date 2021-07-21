@@ -29,6 +29,10 @@ Day 13:Learnt-- Converting string to dates
 
 Day 14:Learnt--Generating periods and frequency conversion
 
+Day 15:Learnt--period arithmetic, creating period range
+
+
+
 
 
 
