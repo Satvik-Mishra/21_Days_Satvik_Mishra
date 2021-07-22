@@ -31,6 +31,10 @@ Day 14:Learnt--Generating periods and frequency conversion
 
 Day 15:Learnt--period arithmetic, creating period range
 
+Day 16:Learnt--file handling operations :read, write, append
+
+
+
 
 
 
