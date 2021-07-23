@@ -33,6 +33,10 @@ Day 15:Learnt--period arithmetic, creating period range
 
 Day 16:Learnt--file handling operations :read, write, append
 
+Day 17:Leaent--Loops
+
+
+
 
 
 
