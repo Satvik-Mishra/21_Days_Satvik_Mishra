@@ -35,6 +35,10 @@ Day 16:Learnt--file handling operations :read, write, append
 
 Day 17:Leaent--Loops
 
+Day 18:Appending to dataframe
+
+
+
 
 
 
