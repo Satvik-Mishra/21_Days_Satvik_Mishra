@@ -37,6 +37,10 @@ Day 17:Leaent--Loops
 
 Day 18:Appending to dataframe
 
+Day 19:Array manipulation
+
+
+
 
 
 
