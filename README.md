@@ -39,6 +39,10 @@ Day 18:Appending to dataframe
 
 Day 19:Array manipulation
 
+Day 20:Learnt--extend method vs + operator, operations on list
+
+
+
 
 
 
