@@ -41,6 +41,9 @@ Day 19:Array manipulation
 
 Day 20:Learnt--extend method vs + operator, operations on list
 
+Day 21:Learnt--Types of regression
+
+
 
 
 
